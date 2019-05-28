@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JetpackComponents</string>
+    <string name="email">email@gmail.com</string>
+    <string name="name">Name</string>
+    <string name="click_me">Click Me</string>
+    <string name="fetch">Fetch</string>
+    <string name="about_us">About Us</string>
+    <string name="shop">Shop</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="detail">We empower small and medium-sized business to reach millions of customers with a number of programmers that help boost their revenue, reach and productivity</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="sample_desc">A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.</string>
+    <string name="star">star</string>
+    <string name="count">30</string>
+    <string name="forks">forks</string>
+    <string name="sample_name">Repo Name</string>
+    <string name="title_activity_room_main">RoomMainActivity</string>
+    <string name="note">Add Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Couldn\'t Save</string>
+    <string name="no_note">No Notes</string>
+    <string name="update">Update</string>
+    <string name="updated">Note Updated</string>
+    <string name="my_note">Note</string>
+    <string name="send">Send</string>
+</resources>
